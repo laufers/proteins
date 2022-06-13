@@ -5,5 +5,5 @@
 #        bash middle.sh octane.pdb 15 5
 
 
-head -n "$2"  | tail -n "$3"
+head -n "$2"  "$1" | tail -n "$3"
 
