@@ -17,6 +17,3 @@ This program uses the bash shell to integrate head and tail commands to seek out
 * two
 * three
 
-adskjlsdjfksajdfkjsd klfjkls djfkl klfjsdkljfkldsj kfljdklf jldsfj lskdjfkl sdfjklsdfj kldsjfklsdjfkldsajf lksdjfklsdjflksadj fasldkjf ksdjfklsdjfklsd jfklsadjfklasdfjklsjf sajkfsafksalfjkls djfds
-
-lskadjfklsajdfklsafsdfsdlksadfj  dsf jlsdfjlksdfdsa
